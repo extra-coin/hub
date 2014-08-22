@@ -2,4 +2,6 @@
 Infos générales
 ===
 
- * [Infos GitHub](InfosGithub)
+ * [Les 10 Commandements](10_COMMANDEMENTS.md)
+
+ * [Infos GitHub](GIT_AND_GITHUB.md)
