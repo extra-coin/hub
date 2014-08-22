@@ -1,7 +1,11 @@
 
 Infos générales
-===
-
+---
  * [Les 10 Commandements](10_COMMANDEMENTS.md)
 
- * [Infos GitHub](GIT_AND_GITHUB.md)
+
+Pour la gamejam
+---
+ * [Infos Git et Github](GIT_AND_GITHUB.md)
+ * [Wifi](WIFI.md)
+
