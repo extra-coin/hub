@@ -15,7 +15,7 @@ Just before the jam begins
 - [ ] Make sure you know where the fire alarm is, and how to proceed
 - [ ] Install rooms: tables, chairs, entrance desk
 - [ ] Place connected electric outlets at every tables
-- [ ] Print the wifi credentials and pin it in many places
+- [ ] Print the wifi credentials large, and pin it in many places
 - [ ] Manage the entrance
  - make each participant sign the attendance sheet
  - give pass / rubber stamp
@@ -26,6 +26,7 @@ During the jam
 ---
 - [ ] Make the necessary informations available anytime
 - [ ] Have water available anytime
+- [ ] Make sure nobody get harrased in any manner at anytime
 - [ ] Go around, make sure everyone know what to do
 
 After the jam
