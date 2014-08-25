@@ -1,6 +1,10 @@
 GAME NAME HERE
 ===
 
+Authors
+
+SCREENSHOTS
+
 Summary
 ---
 Sum up your game idea in 2 sentences. A kind of elevator pitch. Keep it simple!
