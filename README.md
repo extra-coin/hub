@@ -2,6 +2,7 @@
 Infos générales
 ---
  * [Les 10 Commandements](10_COMMANDEMENTS.md)
+ * [Où poster la pres de votre jeu](http://insert.extra-coin.fr
 
 Pour la gamejam
 ---
