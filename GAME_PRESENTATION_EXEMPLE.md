@@ -1,6 +1,10 @@
 NOM DE VOTRE JEU
 ===
 
+Auteurs
+
+SCREENSHOTS
+
 Résumé
 ---
 Résumez votre jeu en une ou deux phrases. Restez extrêmement simple !
